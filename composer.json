@@ -1,0 +1,14 @@
+{
+    "name": "ann/distance",
+    "description": "A contact form package for laravel",
+    "authors": [{
+        "name": "Kuldeep Kumar Singh",
+        "email": "kuldeepkumar17@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ann\\distance\\": "src/"
+        }
+    }
+}
